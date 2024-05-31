@@ -1,0 +1,21 @@
+.button {
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  margin-top: 5px;
+  background-color: red;
+  color: white;
+}
+
+.button1 {
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  margin-top: 5px;
+  background-color: green;
+  color: white;
+}
+
+body {
+  text-align: center;
+}
